@@ -26,7 +26,7 @@ export class AppComponent {
   ];
 
   rowData = [
-    { make: 'Toyota', model: 'Celica', price: 35000, opinion: '' },
+    { make: 'Toyota', model: 'Celica', price: 35000, opinion: 'Select..' },
     { make: 'Ford', model: 'Mondeo', price: 32000, opinion: 'Like' },
     { make: 'Porsche', model: 'Boxter', price: 72000, opinion: 'Neutral' }
   ];
